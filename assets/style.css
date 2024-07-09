@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-size: cover;
+    position: relative;
+}
+
+.min-h-screen {
+    position: relative;
+    z-index: 2;
+}
+
+#theme-toggle {
+    font-size: 1.5rem;
+}
+  
+aside {
+    height: calc(100vh - 4rem);
+    overflow-y: auto;
+}
+  
+@media (max-width: 768px) {
+    aside {
+      display: none;
+    }
+}
