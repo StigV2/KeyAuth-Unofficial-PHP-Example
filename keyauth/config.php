@@ -1,7 +1,7 @@
 <?php
 
-$name = "PHP Example";
-$ownerid = "fs22s8kfBp";
+$name = "";
+$ownerid = "";
 
 /*
 $name = Application Name
