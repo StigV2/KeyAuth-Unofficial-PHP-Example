@@ -53,7 +53,7 @@ if (!isset($_SESSION['sessionid'])) {
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.css">
-    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="../../assets/style.css">
   </head>
   <body class="bg-gray-900 text-white min-h-screen flex flex-col">
     <div class="overlay"></div>

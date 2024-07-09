@@ -77,8 +77,7 @@ if (isset($_POST['logout'])) {
     <title>Dashboard - KeyAuth PHP Example</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <!-- <link rel="stylesheet" href="../../assets/style.css"> -->
-    <link rel="stylesheet" href="https://cdn.keyauth.cc/v3/dist/output.css">
+    <link rel="stylesheet" href="../../assets/style.css">
     <style>
       /* Additional styles specific to this page */
       html {
