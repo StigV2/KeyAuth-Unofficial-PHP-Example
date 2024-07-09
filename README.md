@@ -1,6 +1,13 @@
 # Unofficial PHP Example for KeyAuth
 https://keyauth.cc <br> This example was created by @stigm.a @ KeyAuth LLC
 
+## **Requirements:**
+> PHP
+
+> Small knowledge of PHP language
+
+> Braincells
+
 ## **Setup:**
 Download the repository and extract it to your desktop. Edit the KeyAuth config in `keyauth/config.php` and change `app/routes/routes.php` based on your url.
 
